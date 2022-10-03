@@ -1,0 +1,19 @@
+{
+  "methods": {
+    "command": {
+      "name": "Command",
+      "arguments": [
+        {
+          "type": "text",
+          "name": "Program Name",
+          "placeholder": "Program"
+        },
+        {
+          "type": "text",
+          "name": "Arguments",
+          "placeholder": "Arguments"
+        }
+      ]
+    }
+  }
+}
